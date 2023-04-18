@@ -1,0 +1,10 @@
+.uslug_items{
+    min-width: 250px;
+    display: flex; justify-content: space-between;
+}
+.title{
+    font-size: 18px;
+    color: #001E42;
+    align-self: center;
+    width: 166px;
+}

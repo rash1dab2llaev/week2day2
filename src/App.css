@@ -1,0 +1,13 @@
+.header_bg {
+  background-image: url(./img/bg.png);
+  background-repeat: no-repeat;
+  background-size: 100% 70%;
+  height: 90vh;
+}
+
+@media (max-width:500px) {
+  .header_bg {
+
+    background-size: 100% 80%;
+  }
+}
